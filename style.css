@@ -337,22 +337,5 @@ iframe {
     margin-bottom: 25px;
 
 }
-/* Services Section Layout */
-.services {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;     /* allows wrapping on smaller screens */
-    padding: 40px 20px;
-}
 
-/* Individual service box styling */
-.service-box {
-    background: #f8f8f8;
-    padding: 20px;
-    width: 300px;        /* equal width for all boxes */
-    border-radius: 8px;
-    text-align: center;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
 
