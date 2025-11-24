@@ -337,18 +337,7 @@ iframe {
     margin-bottom: 25px;
 
 }
-.service-box {
-    background: #f8f8f8;
-    padding: 20px;
-    width: 300px;
-    border-radius: 8px;
-    text-align: center;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 
-    /* NEW LINES */
-    border-top: 2px solid #000;      /* top line */
-    border-bottom: 2px solid #000;   /* bottom line */
-}
 
 
 
