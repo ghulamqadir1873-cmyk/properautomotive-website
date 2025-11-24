@@ -355,7 +355,4 @@ iframe {
     text-align: center;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
-.services {
-    justify-content: center;
-    align-items: flex-start;
-}
+
